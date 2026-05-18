@@ -1,16 +1,21 @@
-## Hi there 👋
+# # 🚀 Hi, I'm Kajal Bhatiya!  
 
-<!--
-**KajalAhir23/KajalAhir23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Web Developer and B.Tech CSE (AI) student at Parul University. I love creating digital experiences that are responsive, user-friendly, and visually engaging. 
 
-Here are some ideas to get you started:
+# 🛠️ My Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Java, JavaScript, C, Python   
+
+Web Technologies: HTML, CSS   
+
+Databases: MongoDB, MySQL   
+
+Development Tools: Git, VS Code
+
+# 🏆 Achievements & Projects
+
+Top 45 Finalist: Recognized at Vadodara Hackathon 6.0 for innovative problem-solving.  
+
+Taskly: A sleek, minimalist task management tool (Vanilla JS).
+
+Gradient Generator: A creative tool for CSS background design.
