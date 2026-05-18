@@ -1,4 +1,4 @@
-# # 🚀 Hi, I'm Kajal Bhatiya!  
+##  🚀 Hi, I'm Kajal Bhatiya!  
 
 I am a passionate Web Developer and B.Tech CSE (AI) student at Parul University. I love creating digital experiences that are responsive, user-friendly, and visually engaging. 
 
