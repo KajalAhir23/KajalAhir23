@@ -8,7 +8,6 @@ I am **Kajal Bhatiya**, a **B.Tech Computer Science Engineering (AI)** student a
 * 🎓 **Education:** Pursuing B.Tech CSE (AI) with an **8.37 CGPA**.
 * 🏆 **Achievement:** Top 45 Team at **Vadodara Hackathon 6.0**.
 * 💻 **Focus:** Frontend development and building responsive, user-friendly digital experiences.
-* 🌱 **Learning:** Currently exploring **Agentic AI** through IBM Skills Build.
 
 ---
 
