@@ -1,21 +1,40 @@
-#  🚀 Hi, I'm Kajal Bhatiya!  
+# 💫 About Me
 
-I am a passionate Web Developer and B.Tech CSE (AI) student at Parul University. I love creating digital experiences that are responsive, user-friendly, and visually engaging. 
+I am **Kajal Bhatiya**, a **B.Tech Computer Science Engineering (AI)** student at **Parul University**. I am a **Frontend Developer** expanding my expertise into the **Full-Stack** landscape, currently building **Krishi Cure AI**, an intelligent platform designed to provide smart solutions for modern agriculture.
 
-# 🛠️ My Technical Toolkit
+---
 
-Programming: Java, JavaScript, C, Python   
+### 🚀 Quick Overview
+* 🎓 **Education:** Pursuing B.Tech CSE (AI) with an **8.37 CGPA**.
+* 🏆 **Achievement:** Top 45 Team at **Vadodara Hackathon 6.0**.
+* 💻 **Focus:** Frontend development and building responsive, user-friendly digital experiences.
+* 🌱 **Learning:** Currently exploring **Agentic AI** through IBM Skills Build.
 
-Web Technologies: HTML, CSS   
+---
 
-Databases: MongoDB, MySQL   
+### 💻 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-Development Tools: Git, VS Code
+---
 
-# 🏆 Achievements & Projects
+### 🏆 GitHub Trophies
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=KajalAhir23&theme=radical&no-frame=true&column=4" alt="Kajal's Trophies" />
+</p>
 
-Top 45 Finalist: Recognized at Vadodara Hackathon 6.0 for innovative problem-solving.  
+---
 
-Taskly: A sleek, minimalist task management tool (Vanilla JS).
-
-Gradient Generator: A creative tool for CSS background design.
+### 📫 Let's Connect
+* **Location:** Vadodara, Gujarat
+* **LinkedIn:** https://www.linkedin.com/in/kajal-bhatiya-276721306/
