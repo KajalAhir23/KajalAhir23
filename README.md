@@ -26,13 +26,6 @@ I am **Kajal Bhatiya**, a **B.Tech Computer Science Engineering (AI)** student a
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=KajalAhir23&theme=radical&no-frame=true&column=4" alt="Kajal's Trophies"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 * **Location:** Vadodara, Gujarat
 * **LinkedIn:** https://www.linkedin.com/in/kajal-bhatiya-276721306/
