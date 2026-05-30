@@ -1,13 +1,13 @@
 # 💫 About Me
 
-[cite_start]I am **Kajal Bhatiya**, a **B.Tech Computer Science Engineering (AI)** student at **Parul University**[cite: 4, 9, 10]. [cite_start]I am a **Frontend Developer** expanding my expertise into the **Full-Stack** landscape, currently building **Krishi Cure AI**, an intelligent platform designed to provide smart solutions for modern agriculture[cite: 5, 6].
+I am **Kajal Bhatiya**, a **B.Tech Computer Science Engineering (AI)** student at **Parul University**[cite: 4, 9, 10]. [cite_start]I am a **Frontend Developer** expanding my expertise into the **Full-Stack** landscape, currently building **Krishi Cure AI**, an intelligent platform designed to provide smart solutions for modern agriculture[cite: 5, 6].
 
 ---
 
 ### 🚀 Quick Overview
-* [cite_start]🎓 **Education:** Pursuing B.Tech CSE (AI) with an **8.37 CGPA**[cite: 10, 15].
-* [cite_start]🏆 **Achievement:** Top 45 Team at **Vadodara Hackathon 6.0**[cite: 32].
-* [cite_start]💻 **Focus:** Frontend development and building responsive, user-friendly digital experiences[cite: 5, 6].
+* 🎓 **Education:** Pursuing B.Tech CSE (AI) with an **8.37 CGPA**[cite: 10, 15].
+* 🏆 **Achievement:** Top 45 Team at **Vadodara Hackathon 6.0**[cite: 32].
+* 💻 **Focus:** Frontend development and building responsive, user-friendly digital experiences[cite: 5, 6].
 
 ---
 
@@ -39,5 +39,5 @@
 ---
 
 ### 📫 Let's Connect
-* [cite_start]**Location:** Vadodara, Gujarat [cite: 3]
+* **Location:** Vadodara, Gujarat [cite: 3]
 * **LinkedIn:** https://www.linkedin.com/in/kajal-bhatiya-276721306/
